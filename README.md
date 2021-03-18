@@ -1,2 +1,2 @@
 # Histone-modifiers-of-protozoan-parasites
-# Differential gene expression analysis
+## Differential gene expression analysis
