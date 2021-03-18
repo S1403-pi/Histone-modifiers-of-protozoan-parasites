@@ -1,6 +1,6 @@
 # Histone-modifiers-of-protozoan-parasites
 ## Differential gene expression analysis
-
+To get an insight into how parasites regulate their gene expression inside host to establish infection, we opt to look into expression level of histone-modifying enzymes which helps in the addition or removal of histone post-translational modifications which in turn regulates gene expression. For that, processed and normalized tanscriptomics data were obtained using GEO query package. GSE68667 and GSE130278 were used for Plasmodium ; GSE32427 were used for Toxoplasma; GSE21936 were used for Leishmania; and GSE14641 for Trypanosoma. The histone modifying enzyme genes were sorted and the logFc value were used to prepare scatterplots using ggplot2 package to show differential expression of histone modifying enzyme genes throughout different life-cycle stages of respective parasites. 
 
 ## Contents
 GSE14641_T.cruzi, GSE21936_L.donovani_L.infantum, GSE32427_T.gondii and GSE68667_P.falciparum contains results of transcriptome analysis of corresponding parasites. Merged folder contains excel sheets of all genes obtained after analysis and histone modifier genes of individual parasites; it also contains the merged histone modifiers scatterplots of all parasites that are significantly upregulated or downregulated in human host-residing life-cycle stage forms.
