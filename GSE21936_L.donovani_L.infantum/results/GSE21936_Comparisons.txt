@@ -1,0 +1,9 @@
+	L.dono_2.5vs0hr	L.dono_5vs0hr	L.dono_7.5vs0hr	L.dono_10vs0hr	L.dono_15vs0hr	L.dono_24vs0hr	L.dono_144vs0hr
+L.dono_0hr	-1	-1	-1	-1	-1	-1	-1
+L.dono_10hr	0	0	0	1	0	0	0
+L.dono_144hr	0	0	0	0	0	0	1
+L.dono_15hr	0	0	0	0	1	0	0
+L.dono_2.5hr	1	0	0	0	0	0	0
+L.dono_24hr	0	0	0	0	0	1	0
+L.dono_5hr	0	1	0	0	0	0	0
+L.dono_7.5hr	0	0	1	0	0	0	0
