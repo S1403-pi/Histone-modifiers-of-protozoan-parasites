@@ -1,7 +1,0 @@
-	Antisense.Sporozoite_vs_Oocyst	Antisense.Blood_vs_Oocyst	Sense.Sporozoite_vs_Oocyst	Sense.Blood_vs_Oocyst
-Antisense.PfBlood	0	1	0	0
-Antisense.PfOocyst	-1	-1	0	0
-Antisense.PfSporozoite	1	0	0	0
-Sense.PfBlood	0	0	0	1
-Sense.PfOocyst	0	0	-1	-1
-Sense.PfSporozoite	0	0	1	0

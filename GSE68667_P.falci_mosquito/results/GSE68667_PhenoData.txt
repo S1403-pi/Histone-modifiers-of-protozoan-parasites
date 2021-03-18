@@ -1,7 +1,0 @@
-	samples	group	color
-PfBloodR1	PfBloodR1	PfBlood	#1B9E77
-PfBloodR2	PfBloodR2	PfBlood	#1B9E77
-PfOocystR1	PfOocystR1	PfOocyst	#D95F02
-PfOocystR2	PfOocystR2	PfOocyst	#D95F02
-PfSporozoiteR1	PfSporozoiteR1	PfSporozoite	#7570B3
-PfSporozoiteR2	PfSporozoiteR2	PfSporozoite	#7570B3
