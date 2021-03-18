@@ -1,0 +1,8 @@
+	Oocyst_4vs0d	Oocyst_10vs0d	Tachy_2dpi_vitro_vs_Oocyst_0d	Brady_4dpi_vitro_vs_Oocyst_0d	Brady_8dpi_vitro_vs_Oocyst_0d	Brady_21dpi_vivo_vs_Oocyst_0d
+Brady_21dpi_vivo	0	0	0	0	0	1
+Brady_4dpi_vitro	0	0	0	1	0	0
+Brady_8dpi_vitro	0	0	0	0	1	0
+Oocyst_0d	-1	-1	-1	-1	-1	-1
+Oocyst_10d	0	1	0	0	0	0
+Oocyst_4d	1	0	0	0	0	0
+Tachy_2dpi_vitro	0	0	1	0	0	0

@@ -1,0 +1,15 @@
+	title	geo_accession	source_name_ch1	organism_ch1	strain:ch1	group	color
+GSM802515	Oocyst d0a (unsporulated)	GSM802515	Toxoplasma oocyst	Toxoplasma gondii	M4	Oocyst_0d	#1B9E77
+GSM802516	Oocyst d0b (unsporulated)	GSM802516	Toxoplasma oocyst	Toxoplasma gondii	M4	Oocyst_0d	#1B9E77
+GSM802517	Oocyst d4a (sporulated 4 days)	GSM802517	Toxoplasma oocyst	Toxoplasma gondii	M4	Oocyst_4d	#D95F02
+GSM802518	Oocyst d4b (sporulated 4 days)	GSM802518	Toxoplasma oocyst	Toxoplasma gondii	M4	Oocyst_4d	#D95F02
+GSM802519	Oocyst d10a (sporulated 10 days)	GSM802519	Toxoplasma oocyst	Toxoplasma gondii	M4	Oocyst_10d	#7570B3
+GSM802520	Oocyst d10b (sporulated 10 days)	GSM802520	Toxoplasma oocyst	Toxoplasma gondii	M4	Oocyst_10d	#7570B3
+GSM802521	In vivo Bradyzoites a (21 dpi)	GSM802521	Toxoplasma in vivo bradyzoite	Toxoplasma gondii	M4	Brady_21dpi_vivo	#E7298A
+GSM802522	In vivo Bradyzoites b (21 dpi)	GSM802522	Toxoplasma in vivo bradyzoite	Toxoplasma gondii	M4	Brady_21dpi_vivo	#E7298A
+GSM802523	2 dpi in vitro Tachyzoite a	GSM802523	Toxoplasma tachyzoite	Toxoplasma gondii	M4	Tachy_2dpi_vitro	#66A61E
+GSM802524	2 dpi in vitro Tachyzoite b	GSM802524	Toxoplasma tachyzoite	Toxoplasma gondii	M4	Tachy_2dpi_vitro	#66A61E
+GSM802525	4 dpi in vitro Bradyzoites a	GSM802525	Toxoplasma bradyzoite	Toxoplasma gondii	M4	Brady_4dpi_vitro	#E6AB02
+GSM802526	4 dpi in vitro Bradyzoites b	GSM802526	Toxoplasma bradyzoite	Toxoplasma gondii	M4	Brady_4dpi_vitro	#E6AB02
+GSM802527	8 dpi in vitro Bradyzoites a	GSM802527	Toxoplasma bradyzoite	Toxoplasma gondii	M4	Brady_8dpi_vitro	#A6761D
+GSM802528	8 dpi in vitro Bradyzoites b	GSM802528	Toxoplasma bradyzoite	Toxoplasma gondii	M4	Brady_8dpi_vitro	#A6761D

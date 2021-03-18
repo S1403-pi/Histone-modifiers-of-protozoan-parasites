@@ -1,0 +1,15 @@
+ID_REF	Gene ID	Common Name of Primary Target	logFC	stages
+754	8035.t00006	histone acetyltransferase	1.5	amastigotes
+5189	4938.t00008	histone deacetylase	0.61	amastigotes
+5402	7192.t00027	histone deacetylase	1.52	amastigotes
+9122	8825.t00021	histone deacetylase 1	1.03	amastigotes
+9794	8089.t00012	histone deacetylase	0.67	amastigotes
+13202	7106.t00014	histone deacetylase	-0.16	amastigotes
+14116	4685.t00005	histone deacetylase	2.21	amastigotes
+754	8035.t00006	histone acetyltransferase	-0.01	trypomastigotes
+5189	4938.t00008	histone deacetylase	-1.06	trypomastigotes
+5402	7192.t00027	histone deacetylase	1.4	trypomastigotes
+9122	8825.t00021	histone deacetylase 1	0.93	trypomastigotes
+9794	8089.t00012	histone deacetylase	1.84	trypomastigotes
+13202	7106.t00014	histone deacetylase	-1.24	trypomastigotes
+14116	4685.t00005	histone deacetylase	1.96	trypomastigotes
